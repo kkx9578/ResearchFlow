@@ -6,5 +6,5 @@ version: 3.0.0
 date-released: 2026-08-07
 authors:
   - name: "KAKAMEDLAB"
-url: "https://github.com/kkx9578/ResearchFlow"
+url: "https://github.com/kkx9578/KAKAMEDLAB-ResearchFlow"
 abstract: "A proprietary visual workflow application for standardized API-based generation, run provenance, publication-oriented supplementary artifacts, and objective text metrics in clinical large-language-model research."
