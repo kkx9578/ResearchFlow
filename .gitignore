@@ -1,6 +1,7 @@
 *
 !.gitignore
 !README.md
+!README_EN.md
 !CHANGELOG.md
 !CITATION.cff
 !PROPRIETARY_NOTICE.md
@@ -11,4 +12,3 @@ docs/*
 !docs/PRODUCT_CAPABILITIES.md
 !docs/RESEARCH_REPORTING.md
 !docs/SECURITY_AND_GOVERNANCE.md
-
