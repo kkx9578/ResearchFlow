@@ -14,6 +14,8 @@
   <img alt="Proprietary" src="https://img.shields.io/badge/distribution-Proprietary-374151?style=for-the-badge">
 </p>
 
+[简体中文](README.md) · [English](README_EN.md)
+
 [核心价值](#为什么需要-researchflow) · [双核心引擎](#双核心引擎) · [研究流程](#一条完整的研究流程) · [投稿产物](#核心产物不是一次回答) · [引用方式](#引用与致谢)
 
 </div>
@@ -173,4 +175,3 @@ This public repository provides product identity, capability descriptions, relea
 Copyright © 2026 KAKAMEDLAB. All rights reserved.
 
 </div>
-
