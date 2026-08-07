@@ -34,7 +34,7 @@ ResearchFlow 是 **卡卡的Med大模型实验室（KAKAMEDLAB）临床大语言
 
 ### 推荐致谢
 
-> API-based LLM execution, run logging, and objective-metrics processing were supported by KAKAMEDLAB ResearchFlow (version 3.0.0, Build 20260807.1; KAKAMEDLAB, China). Software information is available at: https://github.com/kkx9578/ResearchFlow.
+> API-based LLM execution, run logging, and objective-metrics processing were supported by KAKAMEDLAB ResearchFlow (version 3.0.0, Build 20260807.1; KAKAMEDLAB, China). Software information is available at: https://github.com/kkx9578/KAKAMEDLAB-ResearchFlow.
 
 ### 获取与联系
 
