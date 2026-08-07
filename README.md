@@ -1,5 +1,7 @@
 # KAKAMEDLAB ResearchFlow
 
+![卡卡的Med大模型实验室课程学习入口与长期支持](assets/kakamedlab-course-support.jpg)
+
 > Proprietary software information repository. Source code and executable files are not distributed through this repository.
 
 **把临床 LLM 研究从手动复制粘贴，推进到标准化、可追溯、可批量运行、可形成投稿材料的可视化工作流。**
