@@ -6,3 +6,9 @@
 !PROPRIETARY_NOTICE.md
 !assets/
 !assets/kakamedlab-course-support.jpg
+!docs/
+docs/*
+!docs/PRODUCT_CAPABILITIES.md
+!docs/RESEARCH_REPORTING.md
+!docs/SECURITY_AND_GOVERNANCE.md
+
